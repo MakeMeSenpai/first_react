@@ -9,8 +9,9 @@ function Title() {
     return (
       <div className="background">
         <header>
-          <h1 className="Title">SFPOPOS</h1>
-          <h3 className="Title-Subtitle">San Francisco Privately Owned Public Open Spaces</h3>
+          <title>First_React</title>
+          <h1 className="Title">Ant's SFPOPOS</h1>
+          <h3 className="Title-Subtitle">Anthony's San Francisco Privately Owned Public Open Spaces</h3>
   
           <div className="nav-link">
             <NavLink

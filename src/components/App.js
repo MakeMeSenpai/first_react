@@ -4,11 +4,11 @@ import { HashRouter as Router, Route } from 'react-router-dom';
 
 import React from 'react';
 import './App.css';
-import Title from './Title';
-import POPOSList from './POPOSList';
-import About from './About'
-import POPOSDetails from './POPOSDetails'
-import Footer from './Footer'
+import Title from './Title/Title';
+import POPOSList from './POPOSList/POPOSList';
+import About from './About/About'
+import POPOSDetails from './POPOSDetails/POPOSDetails'
+import Footer from './Footer/Footer'
 
 
 function App() {
