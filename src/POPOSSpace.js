@@ -1,6 +1,7 @@
 // src/Project.js
 
 import React from 'react'
+import './POPOSSpace.css'
 
 function POPOSSpace(props) {
     // this is the equivalent of defining props.name etc.
